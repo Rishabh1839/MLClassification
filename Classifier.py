@@ -1,5 +1,5 @@
 # Using supervised learning and labeled training data
-# classification of minivans and sports cars
+# classification of High Def and Ultra High Def resolutions
 from sklearn import tree
 
 # include features of the image by resolution x mega pixels
