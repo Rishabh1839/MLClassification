@@ -5,7 +5,7 @@ from sklearn import tree
 # include features of the image by resolution x mega pixels
 # using the following resolutions in sequence
 # 1280 x 720, 1920 x 1080, 3840 x 2160 and 7680 x 4320
-# the mega pixels are multiplying the following resolutions above in the list
+# The mega pixels equals to the resolutions being multiplied which gives us the megapixel digits
 # to be able to find it's mega pixels
 features = [[720, 0.9], [1080, 2.0], [3840, 8.2], [7680, 33.1]]
 # labeled the training data
